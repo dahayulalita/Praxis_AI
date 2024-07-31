@@ -5,7 +5,7 @@ This is a code for a simple multi-purpose calculator
     Selamat Datang di Calculator
 
 2. The app asks for user's option
-    Masukkan Pilihan Operasi:
+    Enter your operation:
     1. Addition
     2. Substraction
     3. Multiplication
@@ -22,4 +22,6 @@ This is a code for a simple multi-purpose calculator
 6. The app show the result
     The addition result was ...
 
-7. Stop
+7. Want to stop:
+    1. Yes
+    2. No
