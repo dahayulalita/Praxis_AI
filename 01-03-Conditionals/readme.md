@@ -2,7 +2,7 @@
 This is a code for a simple multi-purpose calculator
 ## Algorithm
 1. The app shows welcome display
-    Selamat Datang di Calculator
+    Welcome
 
 2. The app asks for user's option
     Enter your operation:
@@ -11,17 +11,18 @@ This is a code for a simple multi-purpose calculator
     3. Multiplication
     4. Division
 
-3. If Addition
+3. User enter the option
 
 4. The app ask the first number
-    Enter the fist number ... 
+    Insert the fist number ... 
 
 5. The app ask the second number
-    Enter the second number ... 
+    Insert the second number ... 
 
 6. The app show the result
-    The addition result was ...
 
-7. Want to stop:
-    1. Yes
-    2. No
+7. The app ask want to exit?
+
+8. User enter the answer
+    If yes the app will show bye!! and stop
+    If no the app will show next
