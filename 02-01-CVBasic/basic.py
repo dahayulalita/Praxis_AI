@@ -52,7 +52,7 @@ output = image.copy()
 cv2.line(output, (0, 0), (300, 300), (0, 255, 255), 5)
 cv2.imshow("Line", output)
 
-cv2.line(output, (300, 0), (0, 200), (255, 0, 255), 5)
+cv2.line(output, (300, 0), (0, 300), (255, 0, 255), 5)
 cv2.imshow("Line", output)
 cv2.waitKey(0)
 
